@@ -1,0 +1,2 @@
+execute as @a if score @s ateMelon >= #AteMelon ateMelon run scoreboard players reset @a ateMelon
+execute as @a if score @s ateMelon >= #AteMelon ateMelon run tellraw @p ["",{"text":"*Sigh* ","bold":true,"italic":true,"color":"dark_green"},{"text":"I sure do wish I was eating lettuce right now...","bold":true,"color":"green"}]
