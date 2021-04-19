@@ -1,1 +1,1 @@
-tellraw @p ["",{"text":"*Sigh* ","bold":true,"italic":true,"color":"dark_green"},{"text":"I sure do wish I was eating lettuce right now...","bold":true,"color":"green"}]
+execute as @a run tellraw @s ["",{"text":"*Sigh* ","bold":true,"italic":true,"color":"dark_green"},{"text":"I sure do wish I was eating lettuce right now...","bold":true,"color":"green"}]
