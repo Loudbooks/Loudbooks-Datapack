@@ -1,0 +1,1 @@
+execute if entity Loudbook anchored feet run execute at Loudbook run particle flame ~ ~ ~ 3 0.2 3 0.001 3000
